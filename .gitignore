@@ -1,7 +1,3 @@
-/GoNoGo
-/examples
-/results
-*.zip
 .DS_Store
 *.idea
 /.idea
